@@ -1,8 +1,8 @@
-<div style="text-align: center; font-size: 50px; font-weight: bold; line-height: 1.4;">
+<div style="text-align: center; font-size: 70px; font-weight: bold; line-height: 1.4;">
   👋 Hi, I'm Hager Omar<br>
   🚀 Flutter Developer | 📱 Mobile App Enthusiast
 </div>
----
+
 
 ## 👨‍💻 About Me
 💙 Passionate about Flutter and creating smooth mobile experiences.  
