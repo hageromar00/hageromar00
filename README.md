@@ -1,5 +1,5 @@
-👋 Hi, I'm Hager Omar
-🚀 Flutter Developer | 📱 Mobile App Enthusiast
+# 👋 Hi, I'm Hager Omar 🚀
+## Flutter Developer | 📱 Mobile App Enthusiast
 
 ---
 
@@ -29,9 +29,7 @@
 -  [Book App](https://github.com/hageromar00/Bookly_app) – Flutter Book App with Clean Architecture, Remote & Local Data integration
 - [Store_App](https://github.com/hageromar00/Store_Application) – Flutter Store App with Add & Edit & display Products, MVVM
 - [Stripe & PayPal Payment App](https://github.com/hageromar00/stripe_payment) – Flutter App with Stripe & PayPal payment integration
-- جج
-
----
+  
 
 ## 📫 Contact
 - Email: hageromar732@gmail.com
