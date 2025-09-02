@@ -1,6 +1,6 @@
 <p align="center">
-  <b><span style="font-size:70px;">👋 Hi, I'm Hager Omar</span></b><br>
-  <b><span style="font-size:60px;">🚀 Flutter Developer | 📱 Mobile App Enthusiast</span></b>
+# 👋 Hi, I'm Hager Omar
+## 🚀 Flutter Developer | 📱 Mobile App Enthusiast
 </p>
 
 
