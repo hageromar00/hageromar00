@@ -1,44 +1,36 @@
-<div style="text-align: center; font-size: 40px; font-weight: bold;">
-  👋 Hi, I'm Hager Omar
-</div>
-<div style="text-align: center; font-size: 30px; font-weight: bold; margin-top: 10px;">
+
+<div style="text-align: center; font-size: 48px; font-weight: bold; line-height: 1.4;">
+  👋 Hi, I'm Hager Omar<br>
   🚀 Flutter Developer | 📱 Mobile App Enthusiast
 </div>
 
----
 
-## 👨‍💻 About Me
-💙 Passionate about Flutter and creating smooth mobile experiences.  
-📱 Exploring mobile development best practices and UI/UX design.  
-🌱 Always improving & sharing knowledge with the community.  
+<div style="margin-top: 30px; font-size: 20px; line-height: 1.6;">
+  👨‍💻 About Me<br>
+  💙 Passionate about Flutter and creating smooth mobile experiences.<br>
+  📱 Exploring mobile development best practices and UI/UX design.<br>
+  🌱 Always improving & sharing knowledge with the community.<br><br>
 
----
+  🛠 Tech Stack & Skills<br>
+  Flutter Development<br>
+  Dart Programming (OOP)<br>
+  State Management: Provider, Cubit, BLoC<br>
+  API Integration: REST APIs<br>
+  Local Storage: Shared Preferences, Hive, SQLite<br>
+  Backend: Firebase (Auth, Firestore, Notifications)<br>
+  Architecture & Patterns: Clean Architecture, SOLID Principles, Design Patterns (Singleton, Factory, MVC, MVVM)<br>
+  UI/UX: Responsive UI design, animations, Material Design<br><br>
 
-## 🛠 Tech Stack & Skills
-- **Flutter Development**  
-- **Dart Programming (OOP)**  
-- **State Management:** Provider, Cubit, BLoC  
-- **API Integration:** REST APIs  
-- **Local Storage:** Shared Preferences, Hive, SQLite  
-- **Backend:** Firebase (Auth, Firestore, Notifications)  
-- **Architecture & Patterns:** Clean Architecture, SOLID Principles, Design Patterns (Singleton, Factory, MVC, MVVM)  
-- **UI/UX:** Responsive UI design, animations, Material Design
+  ⚙️ Tools & Version Control<br>
+  Git & GitHub – Version control and source code management<br>
+  Postman – API testing and debugging<br><br>
 
----
+  📂 Projects<br>
+  Book App – Flutter Book App with Clean Architecture, Remote & Local Data integration<br>
+  Store_App – Flutter Store App with Add, Edit & display Products, MVVM<br>
+  Stripe & PayPal Payment App – Flutter App with Stripe & PayPal payment integration<br><br>
 
-## ⚙️ Tools & Version Control
-- **Git & GitHub** – Version control and source code management  
-- **Postman** – API testing and debugging
-
----
-
-## 📂 Projects
-- [Book App](https://github.com/hageromar00/Bookly_app) – Flutter Book App with Clean Architecture, Remote & Local Data integration  
-- [Store_App](https://github.com/hageromar00/Store_Application) – Flutter Store App with Add, Edit & display Products, MVVM  
-- [Stripe & PayPal Payment App](https://github.com/hageromar00/stripe_payment) – Flutter App with Stripe & PayPal payment integration
-
----
-
-## 📫 Contact
-- Email: hageromar732@gmail.com  
-- LinkedIn: [Hager Omar](https://www.linkedin.com/in/hager-omar-586807364/)
+  📫 Contact<br>
+  Email: hageromar732@gmail.com<br>
+  LinkedIn: Hager Omar
+</div>
