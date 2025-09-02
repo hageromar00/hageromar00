@@ -1,6 +1,9 @@
-<p align="center">
-  <span style="font-size:28px;">👋 <b>Hi, I'm Hager Omar</b> 🚀 <b>Flutter Developer | 📱 Mobile App Enthusiast</b></span>
-</p>
+<div style="text-align: center; font-size: 40px; font-weight: bold;">
+  👋 Hi, I'm Hager Omar
+</div>
+<div style="text-align: center; font-size: 30px; font-weight: bold; margin-top: 10px;">
+  🚀 Flutter Developer | 📱 Mobile App Enthusiast
+</div>
 
 ---
 
