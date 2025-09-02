@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Hager Omar 🚀
-## Flutter Developer | 📱 Mobile App Enthusiast
+<p align="center">
+  <h1>👋 Hi, I'm Hager Omar 🚀</h1>
+  <h2>Flutter Developer | 📱 Mobile App Enthusiast</h2>
+</p>
 
 ---
 
@@ -19,18 +21,22 @@
 - **Backend:** Firebase (Auth, Firestore, Notifications)  
 - **Architecture & Patterns:** Clean Architecture, SOLID Principles, Design Patterns (Singleton, Factory, MVC, MVVM)  
 - **UI/UX:** Responsive UI design, animations, Material Design
-  
+
+---
+
 ## ⚙️ Tools & Version Control
 - **Git & GitHub** – Version control and source code management  
 - **Postman** – API testing and debugging
+
 ---
 
 ## 📂 Projects
--  [Book App](https://github.com/hageromar00/Bookly_app) – Flutter Book App with Clean Architecture, Remote & Local Data integration
-- [Store_App](https://github.com/hageromar00/Store_Application) – Flutter Store App with Add & Edit & display Products, MVVM
+- [Book App](https://github.com/hageromar00/Bookly_app) – Flutter Book App with Clean Architecture, Remote & Local Data integration  
+- [Store_App](https://github.com/hageromar00/Store_Application) – Flutter Store App with Add, Edit & display Products, MVVM  
 - [Stripe & PayPal Payment App](https://github.com/hageromar00/stripe_payment) – Flutter App with Stripe & PayPal payment integration
-  
+
+---
 
 ## 📫 Contact
-- Email: hageromar732@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hager-omar-586807364/
+- Email: hageromar732@gmail.com  
+- LinkedIn: [Hager Omar](https://www.linkedin.com/in/hager-omar-586807364/)
